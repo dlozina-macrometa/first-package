@@ -1,9 +1,8 @@
 name: Publish to npm
 
 on:
-  push:
-    branches:
-      - main # Replace with your default branch if it's not 'main'
+  on:
+  [workflow_dispatch]
 
 jobs:
   build:
