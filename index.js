@@ -1,1 +1,1 @@
-console.log("index.js");
+console.log("My: index.js");
