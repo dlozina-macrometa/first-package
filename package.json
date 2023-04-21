@@ -1,5 +1,5 @@
 {
-  "name": "firstpackage",
+  "name": "firstpackage-di",
   "version": "1.0.0",
   "description": "Test Github Action",
   "main": "index.js",
